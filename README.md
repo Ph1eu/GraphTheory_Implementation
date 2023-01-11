@@ -1,10 +1,5 @@
-##  to Graph Theory
-Code for practical sessions. 
-### <a name="Members" id="member"></a> Group members
 
 ### Table of Content
-> [Members](#member)
->
 > [Dependencies](#dependencies)
 >
 > [Usage](#usage)
@@ -18,7 +13,7 @@ You can check your bash current version with `bash --version` command.
 ### <a name="Usage" id="usage"></a> Usage
 
 **Building**
-Before building the code, you might want to change the **path to the data file inside `ex5-Graph2Tree.cpp`** 
+Before building the code, you might want to change the **path to the data file inside `ex5-Graph2Tree.cpp`**
 
 ```bash
   chmod +x gen.sh
